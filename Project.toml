@@ -1,10 +1,12 @@
 name = "LLVM_jll"
 uuid = "86de99a1-58d6-5da7-8064-bd56ce2e322c"
-version = "9.0.1+4"
+version = "9.0.1+5"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+libLLVM_jll = "8f36deef-c2a5-5394-99ed-8e07531fb29a"
 
 [compat]
 julia = "1.0"
+libLLVM_jll = "=9.0.1"

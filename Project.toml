@@ -1,6 +1,6 @@
 name = "LLVM_jll"
 uuid = "86de99a1-58d6-5da7-8064-bd56ce2e322c"
-version = "11.0.0+5"
+version = "11.0.0+6"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

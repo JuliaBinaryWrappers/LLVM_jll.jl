@@ -1,4 +1,4 @@
-# `LLVM_jll.jl` (v16.0.6+0)
+# `LLVM_jll.jl` (v16.0.6+1)
 
 [![deps](https://juliahub.com/docs/LLVM_jll/deps.svg)](https://juliahub.com/ui/Packages/LLVM_jll/oCjC7?page=2)
 
